@@ -1,6 +1,8 @@
 # bvukas.github.io
 
-[title](https://bvukas.github.io)
+[https://bvukas.github.io](https://bvukas.github.io)
+
+[https://bvukas.github.io/bvukas.github.io](https://bvukas.github.io/bvukas.github.io)
 
 ---
 
