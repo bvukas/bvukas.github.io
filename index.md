@@ -2,7 +2,7 @@
 
 [https://bvukas.github.io](https://bvukas.github.io)
 
-[https://bvukas.github.io/bvukas.github.io](https://bvukas.github.io/bvukas.github.io)
+[druga strana](druga)
 
 ---
 
