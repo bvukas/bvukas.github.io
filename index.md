@@ -1,6 +1,6 @@
 # Glavni naslov
 
-[https://bvukas.github.io](https://bvukas.github.io)
+[A kako je sve ovo napravljeno?](https://github.com/bvukas/bvukas.github.io)
 
 [druga strana](druga)
 
