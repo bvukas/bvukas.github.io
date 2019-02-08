@@ -11,6 +11,11 @@ Lista necega:
 - dva
 - tri
 
+Druga lista
+* jedan
+* dva
+* tri
+
 Jos jedna lista:
 1. jedan
 1. dva
